@@ -1,5 +1,7 @@
-# Simple python script to read gaming time from an Influxdb database #
+# Influxdb to Exist.io Script #
 
-Use this script to extract gaming time from an InfluxDB database and submit it to lifelogging application Exist.io
+Use this script to extract gaming time from an InfluxDB database and submit it to lifelogging application Exist.io.
 
-Created to use an InfluxDB database based on the structure found here https://github.com/c99koder/personal-influxdb
+If you're logging different things in InfluxDB, the script could easily be adapted.
+
+See https://github.com/c99koder/personal-influxdb for the InfluxDB that inspired this code.
