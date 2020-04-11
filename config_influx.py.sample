@@ -1,0 +1,4 @@
+#Token for Exist http://developer.exist.io/
+ACCESS_TOKEN = 'exist_access_token'
+#URL for Influx DB Query. See https://docs.influxdata.com/influxdb/v1.7/tools/api/#query-http-endpoint
+influx_url = "http://localhost:8086/query?u=username&p=password&db=database"
